@@ -3,7 +3,3 @@
 ---
 
 Iam Fledgling Frontend Engineer...　
-
----
-
-- Notion
