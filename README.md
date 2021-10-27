@@ -3,3 +3,4 @@
 ---
 
 Iam Fledgling Frontend Engineer...
+I love Notion
