@@ -2,5 +2,4 @@
 
 ---
 
-Iam Fledgling Frontend Engineer...
-I love Notion
+Iam Fledgling Frontend Engineer
