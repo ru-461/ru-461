@@ -1,4 +1,4 @@
-# Welcome to My Page!!
+# Welcome to mypage
 
 ---
 
