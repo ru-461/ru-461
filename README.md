@@ -2,4 +2,5 @@
 
 ---
 
-Fledgling Frontend Engineer!
+Fledgling frontend engineer.
+Thank you watching!
