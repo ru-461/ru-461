@@ -3,4 +3,4 @@
 ---
 
 Fledgling frontend engineer.
-Thank you watching!
+Thank you for watching!
