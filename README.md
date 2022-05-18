@@ -1,9 +1,9 @@
-# Welcome!
+# Welcome
 
 Thank you for watching.
 
 ---
 
-## Profile
+# Profile
 
 Fledgling frontend engineer.
