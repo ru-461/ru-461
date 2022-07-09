@@ -1,6 +1,6 @@
 # Welcome
 
-Thank you for watching！
+Thank you for watching my page!
 
 ---
 
