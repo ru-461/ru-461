@@ -8,4 +8,4 @@ Thank you for watching my page.
 
 Fledgling frontend engineer.
 
-Happy hacking！
+Happy hacking!!
