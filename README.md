@@ -1,8 +1,6 @@
-# Welcome
+# Welcome to my page
 
 Thank you for watching my page.
-
-# Profile
 
 Fledgling frontend engineer.
 
