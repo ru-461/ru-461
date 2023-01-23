@@ -1,6 +1,6 @@
 # Welcome to my page
 
-Thank you for watching my page.
+Thank you for watching.
 
 Fledgling frontend engineer.
 
