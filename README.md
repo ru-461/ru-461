@@ -1,4 +1,4 @@
-# Welcome
+# Welcome!
 
 Thank you for watching.
 
