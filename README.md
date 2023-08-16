@@ -1,3 +1,3 @@
 # Welcome
 
-Frontend・mobile engineer.
+Frontend ・ Mobile engineer.
