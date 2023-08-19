@@ -3,7 +3,7 @@
 
 # Welcome
 
-Thank you for watching profile.
+Thank you for watching.
 
 ## About
 
