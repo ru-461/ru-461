@@ -7,4 +7,4 @@ Thank you for watching.
 
 ## About
 
-Frontend ・ Mobile engineer.
+I'm Frontend engineer.
