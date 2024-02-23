@@ -7,4 +7,4 @@ Thank you for watching profile.
 
 ## About
 
-I'm Frontend engineer.
+I'm Frontend & Mobile engineer.
