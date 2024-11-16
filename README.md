@@ -7,7 +7,7 @@
 
 # Welcome
 
-Thanks for checking out my profile.
+Thanks for taking the time to look at my profile.
 
 ## About
 
