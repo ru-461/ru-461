@@ -11,4 +11,4 @@ Thanks for taking the time to look at my profile.
 
 ## About
 
-I'm Frontend & Mobile engineer.
+Frontend & Mobile engineer.
