@@ -7,8 +7,8 @@
 
 ## Welcome
 
-Thanks for taking the time to look at my profile.
+Thank you for taking the time to visit my profile.
 
-## About
+## About Me
 
-Frontend & Mobile engineer.
+I am a Frontend and Mobile Engineer.
