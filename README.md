@@ -9,4 +9,4 @@
 
 Thank you for taking the time to visit my profile.
 
-I am a Frontend and Mobile Engineer.
+I'm a Frontend and Mobile Engineer.
