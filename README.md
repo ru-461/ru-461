@@ -8,6 +8,5 @@
 <!--END_SECTION:lapras-card-->
 
 ## Welcome
-
 Thank you for taking the time to visit my profile.
 I'm a Frontend and Mobile Engineer.
